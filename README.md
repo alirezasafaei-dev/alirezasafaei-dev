@@ -1,203 +1,297 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="Alireza Safaei profile hero" width="100%" />
+  <a href="#english">English</a>
+  ·
+  <a href="#فارسی">فارسی</a>
 </p>
 
-<p align="center">
-  <a href="https://alirezasafaeisystems.ir"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live%20Website-0f172a?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://audit.alirezasafaeisystems.ir"><img alt="Audit Platform" src="https://img.shields.io/badge/Audit-Technical%20SEO%20Platform-1d4ed8?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://persiantoolbox.ir"><img alt="PersianToolbox" src="https://img.shields.io/badge/Product-PersianToolbox-0f766e?style=for-the-badge&logo=firefoxbrowser&logoColor=white"></a>
+---
+
+# English
+
+## Alireza Safaei
+### Production-ready Web Systems Engineer
+
+Independent Full-Stack/Web Systems Engineer based in Iran.
+
+I build production-ready web systems, technical SEO workflows, and local-first products for real-world constraints. I take ownership from architecture to deployment: Next.js, TypeScript, Prisma, VPS, Nginx/PM2, and practical operational hardening.
+
+<p>
+  <a href="https://alirezasafaeisystems.ir">Website</a> ·
+  <a href="https://alirezasafaeisystems.ir/alireza-safaei-resume.pdf">Resume</a> ·
+  <a href="https://linkedin.com/in/alirezasafaeisystems">LinkedIn</a> ·
+  <a href="https://x.com/alirezasafaeisystems">X</a> ·
+  <a href="https://telegram.me/alirezasafaeisystems">Telegram</a>
 </p>
 
-<p align="center">
-  <img alt="Focus" src="https://img.shields.io/badge/Focus-Production%20Web%20Systems-111827?style=flat-square">
-  <img alt="Stack" src="https://img.shields.io/badge/Stack-Next.js%20%7C%20TypeScript%20%7C%20Node-111827?style=flat-square">
-  <img alt="Ops" src="https://img.shields.io/badge/Ops-Nginx%20%7C%20PM2%20%7C%20VPS-111827?style=flat-square">
-  <img alt="Approach" src="https://img.shields.io/badge/Approach-Local--First%20Delivery-111827?style=flat-square">
-</p>
+---
 
-## Who I Am
+## What I Do
 
-I build production-ready web systems, technical SEO workflows, and local-first products for real-world constrained environments.
+I design, build, and harden web systems with a strong focus on production readiness, operational clarity, and reduced external dependency.
 
-My work sits at the intersection of:
+My work usually includes:
+- `Next.js` and `TypeScript` application development
+- technical SEO audits and implementation workflows
+- landing pages, product sites, dashboards, and MVPs
+- VPS, `Nginx`, and `PM2` deployment setup
+- local-first architecture for constrained environments
+- practical hardening for maintainability, reliability, and delivery quality
 
-- product delivery that ships and stays maintainable
-- technical depth that clients can trust in production
-- operational thinking that reduces fragility and dependency
-- practical UX that makes complex systems feel clear and usable
+---
 
-If someone lands here in 30 seconds, I want them to understand one thing:
+## Core Stack
 
-> I do not just build pages. I build deployable, reliable systems that solve real business problems.
+`Next.js` · `TypeScript` · `React` · `Node.js` · `Prisma` · `PostgreSQL` · `Tailwind CSS` · `Nginx` · `PM2` · `VPS Linux (Ubuntu)` · `GitHub Actions`
 
-## Why This Profile Exists
+---
 
-This GitHub profile is designed as a public proof layer for:
+## Service Focus
 
-- freelance clients who need confidence before the first call
-- founders who want a developer who can own delivery end to end
-- teams who care about engineering quality, deployment, and resilience
-- anyone evaluating whether I can turn messy constraints into working software
+- Technical SEO audit with clear action plan
+- Next.js performance and production hardening
+- Landing page and product website delivery
+- VPS, Nginx, and PM2 deployment setup
+- Local-first architecture for constrained environments
 
-## What I Deliver
-
-| Area | What clients get |
-| --- | --- |
-| Product engineering | Next.js and TypeScript systems with clean architecture and clear delivery scope |
-| Technical SEO | audit workflows, issue discovery, reporting, and action-oriented recommendations |
-| Production hardening | performance work, failure-point reduction, deployment cleanup, and operational checks |
-| Infrastructure | VPS, Nginx, PM2, and pragmatic release flows for stable launches |
-| Local-first execution | reduced external dependency, resilient workflows, and constrained-environment thinking |
+---
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/alirezasafaei-dev/alirezasafaeisystems">alirezasafaeisystems</a></h3>
-      <p>Personal portfolio and lead-generation system built to convert trust into project inquiries.</p>
-      <p><strong>Role:</strong> brand, credibility, conversion</p>
-      <p><strong>Stack:</strong> Next.js, TypeScript, Prisma, deployment automation</p>
-      <p><strong>Live:</strong> <a href="https://alirezasafaeisystems.ir">alirezasafaeisystems.ir</a></p>
-    </td>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/alirezasafaei-dev/auditsystems">auditsystems</a></h3>
-      <p>Technical SEO and website audit platform focused on actionable diagnosis and service-led conversion.</p>
-      <p><strong>Role:</strong> entry offer, technical proof, lead magnet</p>
-      <p><strong>Stack:</strong> Next.js, TypeScript, Prisma, background workflows</p>
-      <p><strong>Live:</strong> <a href="https://audit.alirezasafaeisystems.ir">audit.alirezasafaeisystems.ir</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/alirezasafaei-dev/persiantoolbox">persiantoolbox</a></h3>
-      <p>Utility product for fast, accurate, Persian-first daily tasks with strong execution and low friction.</p>
-      <p><strong>Role:</strong> public utility, product proof, traffic asset</p>
-      <p><strong>Stack:</strong> Next.js, TypeScript, testing and release automation</p>
-      <p><strong>Live:</strong> <a href="https://persiantoolbox.ir">persiantoolbox.ir</a></p>
-    </td>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/alirezasafaei-dev/creatormembership">creatormembership</a></h3>
-      <p>Membership platform for creators selling gated digital access, positioned as a near-term launchable MVP.</p>
-      <p><strong>Role:</strong> monetization product, systems thinking, workflow ownership</p>
-      <p><strong>Stack:</strong> monorepo, API and web apps, automation scripts</p>
-      <p><strong>Status:</strong> pre-launch and narrowing toward sellable scope</p>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/alirezasafaei-dev/devatlas">devatlas</a></h3>
-      <p>Production-grade monorepo for a developer knowledge and tooling platform with strong architectural foundations.</p>
-      <p><strong>Role:</strong> engineering depth, architecture showcase</p>
-      <p><strong>Stack:</strong> pnpm workspace, Turbo, Next.js, NestJS, shared packages</p>
-      <p><strong>Status:</strong> active development</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3><a href="https://github.com/alirezasafaei-dev/microcatalog">microcatalog</a></h3>
-      <p>Monetizable MVP concept for sellers who need a practical catalog presence under constrained online conditions.</p>
-      <p><strong>Role:</strong> commercial opportunity, lightweight product path</p>
-      <p><strong>Stack:</strong> modular monolith, pnpm workspace, frontend and backend split</p>
-      <p><strong>Status:</strong> roadmap and base architecture ready</p>
-    </td>
-  </tr>
-</table>
+### 1) alirezasafaeisystems
+Personal portfolio, services, and lead generation website.
 
-## Live Product Screenshots
+- Live: https://alirezasafaeisystems.ir
+- Repository: https://github.com/alirezasafaei-dev/alirezasafaeisystems
+- Focus: portfolio positioning, service presentation, production delivery
+- Preview:
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <a href="https://alirezasafaeisystems.ir">
-        <img src="./assets/screenshots/alirezasafaeisystems-home.png" alt="alirezasafaeisystems live homepage screenshot" width="100%" />
-      </a>
-      <p><strong>alirezasafaeisystems</strong><br/>Portfolio and conversion system in production.</p>
-    </td>
-    <td valign="top" width="33%">
-      <a href="https://audit.alirezasafaeisystems.ir">
-        <img src="./assets/screenshots/auditsystems-home.png" alt="auditsystems live homepage screenshot" width="100%" />
-      </a>
-      <p><strong>auditsystems</strong><br/>Technical SEO and website audit platform running live.</p>
-    </td>
-    <td valign="top" width="33%">
-      <a href="https://persiantoolbox.ir">
-        <img src="./assets/screenshots/persiantoolbox-home.png" alt="persiantoolbox live homepage screenshot" width="100%" />
-      </a>
-      <p><strong>persiantoolbox</strong><br/>Persian-first utility product with public production surface.</p>
-    </td>
-  </tr>
-</table>
+![alirezasafaeisystems](https://raw.githubusercontent.com/alirezasafaei-dev/alirezasafaei-dev/main/alirezasafaei-dev/assets/screenshots/alirezasafaeisystems-home.png)
 
-For `creatormembership`, `devatlas`, and `microcatalog`, I keep the portfolio positioning public but will only add screenshot proof after the corresponding live deployment is public and stable.
+---
 
-## Systems Mindset
+### 2) auditsystems
+Technical SEO and website audit platform with actionable reporting.
 
-<p align="center">
-  <img src="./assets/system-map.svg" alt="System mindset diagram" width="100%" />
-</p>
+- Live: https://audit.alirezasafaeisystems.ir
+- Repository: https://github.com/alirezasafaei-dev/auditsystems
+- Focus: SEO workflows, audit structure, operational clarity
+- Preview:
 
-I care about the full delivery chain, not just feature output:
+![auditsystems](https://raw.githubusercontent.com/alirezasafaei-dev/alirezasafaei-dev/main/alirezasafaei-dev/assets/screenshots/auditsystems-home.png)
 
-- architecture that keeps velocity high after launch
-- UX clarity that lowers user friction and increases trust
-- deployment discipline that keeps releases boring and recoverable
-- evidence and reporting that make quality visible
-- infrastructure choices that respect local constraints
+---
 
-## Why Clients Hire Me
+### 3) persiantoolbox
+Persian utility toolbox built for fast, reliable task execution.
 
-- I think like an engineer and a product owner at the same time
-- I optimize for real delivery, not demo-only code
-- I can work from UI down to deployment and operational safety
-- I understand constrained environments and build around them pragmatically
-- I turn live products into reusable proof, not one-off implementations
+- Live: https://persiantoolbox.ir
+- Repository: https://github.com/alirezasafaei-dev/persiantoolbox
+- Focus: Persian-first product utility, speed, practical usability
+- Preview:
 
-## Services
+![persiantoolbox](https://raw.githubusercontent.com/alirezasafaei-dev/alirezasafaei-dev/main/alirezasafaei-dev/assets/screenshots/persiantoolbox-home.png)
 
-### Core services
+---
 
-- technical SEO audits with an actionable remediation path
-- Next.js product builds and architecture cleanup
-- website performance and production hardening
-- VPS, Nginx, PM2, and deployment stabilization
-- local-first product strategy for fragile or restricted ecosystems
+### 4) creatormembership
+Creator membership platform for gated products and digital access.
 
-### Best-fit projects
+- Repository: https://github.com/alirezasafaei-dev/creatormembership
+- Focus: gated access, creator products, membership operations
 
-- service websites that must convert better
-- product dashboards and internal tools
-- audit and reporting systems
-- platforms that need a stable production launch
-- products that cannot depend too heavily on third-party infrastructure
+---
 
-## Current Direction
+### 5) devatlas
+Production-grade developer atlas monorepo for knowledge and tooling.
 
-- strengthen public proof and attract higher-quality freelance work
-- refine live systems already running in production
-- move one product to a realistic MVP instead of scattering effort
-- turn engineering depth into a clearer business-facing portfolio
+- Repository: https://github.com/alirezasafaei-dev/devatlas
+- Focus: developer knowledge systems, tooling structure, scalable foundations
 
-## Showcase Sprint (GitHub Profile)
+---
 
-- **Goal:** convert profile visitors into serious inquiries and demo calls.
-- **This week:**
-  - keep the top 3 live projects visible with clear role + outcome
-  - tighten proposal-facing copy in "What I Deliver" and "Services"
-  - keep screenshots current and add one practical result line per featured project
+### 6) microcatalog
+MVP concept for seller catalogs in constrained online channels.
 
-### Proposed service intro (for profile-to-proposal handoff)
+- Repository: https://github.com/alirezasafaei-dev/microcatalog
+- Focus: catalog workflows, constrained-market usage, lightweight product architecture
 
-- Technical SEO audits with clear remediation roadmap
-- Production-ready Next.js builds with reliability and performance focus
-- Local-first web products that remain useful under constrained conditions
-- VPS/Nginx/PM2 deployment setup and launch support
+---
 
-## Quick Links
+## Proof of Engineering Approach
 
-- `Portfolio`: [alirezasafaeisystems.ir](https://alirezasafaeisystems.ir)
-- `Audit platform`: [audit.alirezasafaeisystems.ir](https://audit.alirezasafaeisystems.ir)
-- `Product`: [persiantoolbox.ir](https://persiantoolbox.ir)
-- `GitHub`: [github.com/alirezasafaei-dev](https://github.com/alirezasafaei-dev)
+I focus on repositories and products that show:
+- production-oriented architecture
+- maintainable code structure
+- technical SEO awareness
+- operational deployment thinking
+- delivery discipline with versioning and CI/CD
+- practical UX for real use, not just demos
+
+---
+
+## Availability
+
+Available for:
+- freelance projects
+- technical audits
+- production-ready web apps
+- MVP launches
+- dev/ops stabilization
+
+---
 
 ## Contact
 
-If you need a developer who can take ownership from architecture to deployment and ship a production-ready system, I am open to project work and serious collaborations.
+- Website: https://alirezasafaeisystems.ir
+- Resume: https://alirezasafaeisystems.ir/alireza-safaei-resume.pdf
+- LinkedIn: https://linkedin.com/in/alirezasafaeisystems
+- X: https://x.com/alirezasafaeisystems
+- Telegram: https://telegram.me/alirezasafaeisystems
+- Location: Iran
+- Timezone: Asia/Tehran (GMT+3:30)
+
+---
+
+# فارسی
+
+## علیرضا صفایی
+### مهندس سامانه‌های وب آماده برای تولید
+
+مهندس مستقل Full-Stack / Web Systems مستقر در ایران.
+
+من سامانه‌های وب آماده برای تولید، گردش‌کارهای SEO فنی و محصولات Local-First را با رویکرد تحویل واقعی می‌سازم. از معماری تا استقرار، کنترل کیفیت، استحکام عملیاتی و پایداری را در کنار توسعه پیاده‌سازی می‌کنم.
+
+<p>
+  <a href="https://alirezasafaeisystems.ir">وب‌سایت</a> ·
+  <a href="https://alirezasafaeisystems.ir/alireza-safaei-resume.pdf">رزومه</a> ·
+  <a href="https://linkedin.com/in/alirezasafaeisystems">LinkedIn</a> ·
+  <a href="https://x.com/alirezasafaeisystems">X</a> ·
+  <a href="https://telegram.me/alirezasafaeisystems">Telegram</a>
+</p>
+
+---
+
+## کاری که انجام می‌دهم
+
+من سیستم‌های وب را با تمرکز بر production readiness، شفافیت عملیاتی و کاهش وابستگی خارجی طراحی، پیاده‌سازی و harden می‌کنم.
+
+حوزه‌های اصلی کار من:
+- توسعه اپلیکیشن با `Next.js` و `TypeScript`
+- audit و implementation برای technical SEO
+- توسعه landing page، product site، dashboard و MVP
+- setup و استقرار روی VPS با `Nginx` و `PM2`
+- معماری local-first برای محیط‌های constrained
+- hardening عملی برای نگه‌داری‌پذیری، پایداری و کیفیت تحویل
+
+---
+
+## استک اصلی
+
+`Next.js` · `TypeScript` · `React` · `Node.js` · `Prisma` · `PostgreSQL` · `Tailwind CSS` · `Nginx` · `PM2` · `VPS Linux (Ubuntu)` · `GitHub Actions`
+
+---
+
+## تمرکز خدمات
+
+- Technical SEO audit با action plan شفاف
+- بهینه‌سازی performance و production hardening در Next.js
+- تحویل landing page و product website
+- setup استقرار با VPS، Nginx و PM2
+- معماری local-first برای شرایط محدود
+
+---
+
+## پروژه‌های شاخص
+
+### 1) alirezasafaeisystems
+وب‌سایت شخصی، خدمات و جذب lead.
+
+- نسخه زنده: https://alirezasafaeisystems.ir
+- مخزن: https://github.com/alirezasafaei-dev/alirezasafaeisystems
+- تمرکز: portfolio positioning، ارائه خدمات، تحویل production
+- پیش‌نمایش:
+
+![alirezasafaeisystems](https://raw.githubusercontent.com/alirezasafaei-dev/alirezasafaei-dev/main/alirezasafaei-dev/assets/screenshots/alirezasafaeisystems-home.png)
+
+---
+
+### 2) auditsystems
+پلتفرم Technical SEO و audit وب‌سایت با گزارش‌دهی قابل اقدام.
+
+- نسخه زنده: https://audit.alirezasafaeisystems.ir
+- مخزن: https://github.com/alirezasafaei-dev/auditsystems
+- تمرکز: workflowهای SEO، ساختار audit، شفافیت عملیاتی
+- پیش‌نمایش:
+
+![auditsystems](https://raw.githubusercontent.com/alirezasafaei-dev/alirezasafaei-dev/main/alirezasafaei-dev/assets/screenshots/auditsystems-home.png)
+
+---
+
+### 3) persiantoolbox
+جعبه‌ابزار فارسی برای انجام سریع و قابل اتکای کارهای کاربردی.
+
+- نسخه زنده: https://persiantoolbox.ir
+- مخزن: https://github.com/alirezasafaei-dev/persiantoolbox
+- تمرکز: utility فارسی‌محور، سرعت، usability عملی
+- پیش‌نمایش:
+
+![persiantoolbox](https://raw.githubusercontent.com/alirezasafaei-dev/alirezasafaei-dev/main/alirezasafaei-dev/assets/screenshots/persiantoolbox-home.png)
+
+---
+
+### 4) creatormembership
+پلتفرم membership برای محصولات gated و دسترسی دیجیتال.
+
+- مخزن: https://github.com/alirezasafaei-dev/creatormembership
+- تمرکز: دسترسی gated، محصولات creator، عملیات membership
+
+---
+
+### 5) devatlas
+monorepo برای دانش و ابزارهای توسعه‌دهندگان با رویکرد production-grade.
+
+- مخزن: https://github.com/alirezasafaei-dev/devatlas
+- تمرکز: سیستم دانش توسعه‌دهنده، ساختار tooling، پایه‌های مقیاس‌پذیر
+
+---
+
+### 6) microcatalog
+MVP concept برای catalog فروشنده در کانال‌های آنلاین محدود.
+
+- مخزن: https://github.com/alirezasafaei-dev/microcatalog
+- تمرکز: workflowهای catalog، استفاده در بازار constrained، معماری سبک محصول
+
+---
+
+## شواهد رویکرد مهندسی
+
+من روی پروژه‌ها و مخازنی تمرکز دارم که این موارد را نشان دهند:
+- معماری production-oriented
+- ساختار کد قابل نگه‌داری
+- توجه جدی به technical SEO
+- تفکر عملیاتی برای deployment
+- انضباط در تحویل با versioning و CI/CD
+- UX کاربردی برای استفاده واقعی، نه فقط demo
+
+---
+
+## همکاری
+
+آماده همکاری برای:
+- پروژه‌های freelance
+- audit فنی
+- توسعه web app آماده production
+- راه‌اندازی MVP
+- تثبیت و بهبود dev/ops
+
+---
+
+## ارتباط
+
+- وب‌سایت: https://alirezasafaeisystems.ir
+- رزومه: https://alirezasafaeisystems.ir/alireza-safaei-resume.pdf
+- LinkedIn: https://linkedin.com/in/alirezasafaeisystems
+- X: https://x.com/alirezasafaeisystems
+- Telegram: https://telegram.me/alirezasafaeisystems
+- موقعیت: Iran
+- منطقه زمانی: Asia/Tehran (GMT+3:30)
