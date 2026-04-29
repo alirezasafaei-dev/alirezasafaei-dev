@@ -176,6 +176,21 @@ I care about the full delivery chain, not just feature output:
 - move one product to a realistic MVP instead of scattering effort
 - turn engineering depth into a clearer business-facing portfolio
 
+## Showcase Sprint (GitHub Profile)
+
+- **Goal:** convert profile visitors into serious inquiries and demo calls.
+- **This week:**
+  - keep the top 3 live projects visible with clear role + outcome
+  - tighten proposal-facing copy in "What I Deliver" and "Services"
+  - keep screenshots current and add one practical result line per featured project
+
+### Proposed service intro (for profile-to-proposal handoff)
+
+- Technical SEO audits with clear remediation roadmap
+- Production-ready Next.js builds with reliability and performance focus
+- Local-first web products that remain useful under constrained conditions
+- VPS/Nginx/PM2 deployment setup and launch support
+
 ## Quick Links
 
 - `Portfolio`: [alirezasafaeisystems.ir](https://alirezasafaeisystems.ir)
