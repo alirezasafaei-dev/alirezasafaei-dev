@@ -102,6 +102,33 @@ This GitHub profile is designed as a public proof layer for:
   </tr>
 </table>
 
+## Live Product Screenshots
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <a href="https://alirezasafaeisystems.ir">
+        <img src="./assets/screenshots/alirezasafaeisystems-home.png" alt="alirezasafaeisystems live homepage screenshot" width="100%" />
+      </a>
+      <p><strong>alirezasafaeisystems</strong><br/>Portfolio and conversion system in production.</p>
+    </td>
+    <td valign="top" width="33%">
+      <a href="https://audit.alirezasafaeisystems.ir">
+        <img src="./assets/screenshots/auditsystems-home.png" alt="auditsystems live homepage screenshot" width="100%" />
+      </a>
+      <p><strong>auditsystems</strong><br/>Technical SEO and website audit platform running live.</p>
+    </td>
+    <td valign="top" width="33%">
+      <a href="https://persiantoolbox.ir">
+        <img src="./assets/screenshots/persiantoolbox-home.png" alt="persiantoolbox live homepage screenshot" width="100%" />
+      </a>
+      <p><strong>persiantoolbox</strong><br/>Persian-first utility product with public production surface.</p>
+    </td>
+  </tr>
+</table>
+
+For `creatormembership`, `devatlas`, and `microcatalog`, I keep the portfolio positioning public but will only add screenshot proof after the corresponding live deployment is public and stable.
+
 ## Systems Mindset
 
 <p align="center">
