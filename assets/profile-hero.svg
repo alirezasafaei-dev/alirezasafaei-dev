@@ -1,0 +1,58 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Alireza Safaei GitHub Profile Hero</title>
+  <desc id="desc">A visual hero introducing Alireza Safaei as a production-ready web systems engineer.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.45" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="744" y1="72" x2="1120" y2="348" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1D4ED8" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0.16"/>
+    </linearGradient>
+    <filter id="blur" x="691" y="19" width="510" height="382" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="420" rx="28" fill="url(#bg)"/>
+  <g opacity="0.12">
+    <path d="M0 90H1280" stroke="white"/>
+    <path d="M0 170H1280" stroke="white"/>
+    <path d="M0 250H1280" stroke="white"/>
+    <path d="M0 330H1280" stroke="white"/>
+    <path d="M180 0V420" stroke="white"/>
+    <path d="M380 0V420" stroke="white"/>
+    <path d="M580 0V420" stroke="white"/>
+    <path d="M780 0V420" stroke="white"/>
+    <path d="M980 0V420" stroke="white"/>
+    <path d="M1180 0V420" stroke="white"/>
+  </g>
+  <circle cx="1105" cy="84" r="116" fill="#2563EB" fill-opacity="0.14"/>
+  <circle cx="1210" cy="314" r="136" fill="#14B8A6" fill-opacity="0.12"/>
+  <g filter="url(#blur)">
+    <rect x="745" y="73" width="402" height="274" rx="26" fill="url(#panel)"/>
+  </g>
+  <rect x="744" y="72" width="404" height="276" rx="26" fill="#0B1220" fill-opacity="0.58" stroke="rgba(255,255,255,0.18)"/>
+  <rect x="776" y="112" width="148" height="10" rx="5" fill="#22C55E"/>
+  <rect x="776" y="145" width="226" height="10" rx="5" fill="#93C5FD"/>
+  <rect x="776" y="178" width="318" height="10" rx="5" fill="#E5E7EB" fill-opacity="0.85"/>
+  <rect x="776" y="211" width="270" height="10" rx="5" fill="#E5E7EB" fill-opacity="0.40"/>
+  <rect x="776" y="244" width="192" height="44" rx="12" fill="#111827" stroke="#1D4ED8"/>
+  <text x="796" y="271" fill="#DBEAFE" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Live Systems</text>
+  <rect x="984" y="244" width="128" height="44" rx="12" fill="#111827" stroke="#0F766E"/>
+  <text x="1012" y="271" fill="#CCFBF1" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">SEO</text>
+  <rect x="776" y="304" width="336" height="12" rx="6" fill="#1F2937"/>
+  <rect x="776" y="304" width="256" height="12" rx="6" fill="#22C55E"/>
+  <text x="82" y="118" fill="#A5F3FC" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="1.8">ALIREZA SAFAEI</text>
+  <text x="82" y="182" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="800">Production-ready</text>
+  <text x="82" y="236" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="800">web systems engineer</text>
+  <text x="82" y="284" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="22">Next.js, TypeScript, technical SEO, local-first products,</text>
+  <text x="82" y="316" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="22">deployment discipline, and resilient delivery.</text>
+  <rect x="82" y="348" width="220" height="18" rx="9" fill="#1D4ED8" fill-opacity="0.94"/>
+  <rect x="316" y="348" width="180" height="18" rx="9" fill="#0F766E" fill-opacity="0.94"/>
+  <rect x="510" y="348" width="204" height="18" rx="9" fill="#111827" stroke="#94A3B8"/>
+  <text x="96" y="362" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="800" letter-spacing="1.4">PRODUCT DELIVERY</text>
+  <text x="339" y="362" fill="white" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="800" letter-spacing="1.4">OPERATIONAL THINKING</text>
+  <text x="542" y="362" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="800" letter-spacing="1.4">CONSTRAINED ENVIRONMENTS</text>
+</svg>
