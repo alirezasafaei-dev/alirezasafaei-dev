@@ -10,7 +10,7 @@
 - [x] Important projects already show version history or release tags in several repos
 - [x] Public licensing now exists for key showcase repositories
 - [ ] Every pinned repo has a real screenshot from the live product
-- [ ] Downloadable PDF resume is live from the personal site
+- [x] Downloadable PDF resume is live from the personal site
 - [x] Personal site portfolio page is verified live in this pass
 
 ## Verified Strong Repos
@@ -29,7 +29,7 @@
   - `auditsystems`
   - `persiantoolbox`
 - Verified `https://alirezasafaeisystems.ir/profile` responds with `200 OK`.
-- Verified common resume URLs currently return `404`:
+- Verified live resume assets are now accessible:
   - `https://alirezasafaeisystems.ir/alireza-safaei-resume.pdf`
   - `https://alirezasafaeisystems.ir/resume.pdf`
 - `creatormembership`, `devatlas`, and `microcatalog` still need public live deployments before the checklist item about live-product screenshots can be fully closed without faking evidence.
